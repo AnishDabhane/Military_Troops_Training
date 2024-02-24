@@ -1,0 +1,82 @@
+{
+  "elbow_left": {
+    "start_node":11,
+    "middle_node":12,
+    "end_node": 13,
+    "angle": {
+      "low": 90,
+      "perfect": 100,
+      "high": 110
+    }
+  },
+  "elbow_right": {
+    "start_node":11,
+    "middle_node":12,
+    "end_node": 13,
+    "angle": {
+      "low": 90,
+      "perfect": 100,
+      "high": 110
+    }
+  },
+  "shoulder_left": {
+    "start_node":11,
+    "middle_node":12,
+    "end_node": 13,
+    "angle": {
+      "low": 90,
+      "perfect": 100,
+      "high": 110
+    }
+  },
+  "shoulder_right": {
+    "start_node":11,
+    "middle_node":12,
+    "end_node": 13,
+    "angle": {
+      "low": 90,
+      "perfect": 100,
+      "high": 110
+    }
+  },
+  "hip_left": {
+    "start_node":11,
+    "middle_node":12,
+    "end_node": 13,
+    "angle": {
+      "low": 90,
+      "perfect": 100,
+      "high": 110
+    }
+  },
+  "hip_right": {
+    "start_node":11,
+    "middle_node":12,
+    "end_node": 13,
+    "angle": {
+      "low": 90,
+      "perfect": 100,
+      "high": 110
+    }
+  },
+  "knee_left": {
+    "start_node":11,
+    "middle_node":12,
+    "end_node": 13,
+    "angle": {
+      "low": 90,
+      "perfect": 100,
+      "high": 110
+    }
+  },
+  "knee_right": {
+    "start_node":11,
+    "middle_node":12,
+    "end_node": 13,
+    "angle": {
+      "low": 90,
+      "perfect": 100,
+      "high": 110
+    }
+  }
+}
