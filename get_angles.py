@@ -65,5 +65,5 @@ joints = {
     "knee_right": [24, 26, 28],
 }
 
-for joint in joints.values():
-    print(calculate_angle(joint))
+for key,value in joints.items():
+    print(f"{key} : {calculate_angle(value)}")
