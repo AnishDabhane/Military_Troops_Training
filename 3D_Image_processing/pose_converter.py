@@ -56,14 +56,14 @@ with mp_pose.Pose(min_detection_confidence=0.7, min_tracking_confidence=0.7) as 
 
 # Joints
 joints = {
-    "elbow_left": [15, 13, 11],
-    "elbow_right": [16, 14, 12],
-    "shoulder_left": [13, 11, 23],
-    "shoulder_right": [14, 12, 24],
-    "hip_left": [25, 23, 24],
-    "hip_right": [26, 24, 23],
-    "knee_left": [23, 25, 27],
-    "knee_right": [24, 26, 28],
+    "left_elbow": [15, 13, 11],
+    "right_elbow": [16, 14, 12],
+    "left_shoulder": [13, 11, 23],
+    "right_shoulder": [14, 12, 24],
+    "left_hip": [25, 23, 24],
+    "right_hip": [26, 24, 23],
+    "left_knee": [23, 25, 27],
+    "right_knee": [24, 26, 28],
 }
 
 THRESHOLD = 10

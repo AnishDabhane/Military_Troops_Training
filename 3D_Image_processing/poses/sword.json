@@ -1,0 +1,82 @@
+{
+    "left_elbow": {
+        "start_node": 15,
+        "middle_node": 13,
+        "end_node": 11,
+        "angle": {
+            "low": 26.72440321943582,
+            "perfect": 36.72440321943582,
+            "high": 46.72440321943582
+        }
+    },
+    "right_elbow": {
+        "start_node": 16,
+        "middle_node": 14,
+        "end_node": 12,
+        "angle": {
+            "low": 20.61715758898949,
+            "perfect": 30.61715758898949,
+            "high": 40.617157588989485
+        }
+    },
+    "left_shoulder": {
+        "start_node": 13,
+        "middle_node": 11,
+        "end_node": 23,
+        "angle": {
+            "low": 23.23146667914275,
+            "perfect": 33.23146667914275,
+            "high": 43.23146667914275
+        }
+    },
+    "right_shoulder": {
+        "start_node": 14,
+        "middle_node": 12,
+        "end_node": 24,
+        "angle": {
+            "low": 127.6778798298597,
+            "perfect": 137.6778798298597,
+            "high": 147.6778798298597
+        }
+    },
+    "left_hip": {
+        "start_node": 25,
+        "middle_node": 23,
+        "end_node": 24,
+        "angle": {
+            "low": 23.901733893826368,
+            "perfect": 33.90173389382637,
+            "high": 43.90173389382637
+        }
+    },
+    "right_hip": {
+        "start_node": 26,
+        "middle_node": 24,
+        "end_node": 23,
+        "angle": {
+            "low": 132.44913599362712,
+            "perfect": 142.44913599362712,
+            "high": 152.44913599362712
+        }
+    },
+    "left_knee": {
+        "start_node": 23,
+        "middle_node": 25,
+        "end_node": 27,
+        "angle": {
+            "low": 71.13350537084973,
+            "perfect": 81.13350537084973,
+            "high": 91.13350537084973
+        }
+    },
+    "right_knee": {
+        "start_node": 24,
+        "middle_node": 26,
+        "end_node": 28,
+        "angle": {
+            "low": 122.05093165483078,
+            "perfect": 132.05093165483078,
+            "high": 142.05093165483078
+        }
+    }
+}

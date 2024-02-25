@@ -1,0 +1,82 @@
+{
+    "elbow_left": {
+        "start_node": 15,
+        "middle_node": 13,
+        "end_node": 11,
+        "angle": {
+            "low": 163.88046685769606,
+            "perfect": 173.88046685769606,
+            "high": 183.88046685769606
+        }
+    },
+    "elbow_right": {
+        "start_node": 16,
+        "middle_node": 14,
+        "end_node": 12,
+        "angle": {
+            "low": 98.35203760847811,
+            "perfect": 108.35203760847811,
+            "high": 118.35203760847811
+        }
+    },
+    "shoulder_left": {
+        "start_node": 13,
+        "middle_node": 11,
+        "end_node": 23,
+        "angle": {
+            "low": -4.931382009840347,
+            "perfect": 5.068617990159653,
+            "high": 15.068617990159652
+        }
+    },
+    "shoulder_right": {
+        "start_node": 14,
+        "middle_node": 12,
+        "end_node": 24,
+        "angle": {
+            "low": 42.55523462568351,
+            "perfect": 52.55523462568351,
+            "high": 62.55523462568351
+        }
+    },
+    "hip_left": {
+        "start_node": 25,
+        "middle_node": 23,
+        "end_node": 24,
+        "angle": {
+            "low": 111.22727970697348,
+            "perfect": 121.22727970697348,
+            "high": 131.2272797069735
+        }
+    },
+    "hip_right": {
+        "start_node": 26,
+        "middle_node": 24,
+        "end_node": 23,
+        "angle": {
+            "low": 113.3513257309104,
+            "perfect": 123.3513257309104,
+            "high": 133.3513257309104
+        }
+    },
+    "knee_left": {
+        "start_node": 23,
+        "middle_node": 25,
+        "end_node": 27,
+        "angle": {
+            "low": 115.29235911158443,
+            "perfect": 125.29235911158443,
+            "high": 135.29235911158443
+        }
+    },
+    "knee_right": {
+        "start_node": 24,
+        "middle_node": 26,
+        "end_node": 28,
+        "angle": {
+            "low": 144.24566848368406,
+            "perfect": 154.24566848368406,
+            "high": 164.24566848368406
+        }
+    }
+}
