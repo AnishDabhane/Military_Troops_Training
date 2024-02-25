@@ -1,0 +1,16 @@
+.featur {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  padding-bottom: 2rem;
+}
+
+.headin {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #212121;
+  font-family: "Realgar TRIAL", sans-serif;
+  padding: 4rem 0 0 4rem;
+  color: var(--main-color);
+  padding-bottom: 2rem;
+}
